@@ -46,6 +46,7 @@ Our model is implemented in Python (version 3.8.16) programming language, under 
  - HappyWhale.ipynb
  - YOLOv5
  - dataset
+ - dataset_images.csv
 
 2. Inside your google drive, create a project directory with the following path: /content/gdrive/MyDrive/Final_Project/Phase_B.
 
