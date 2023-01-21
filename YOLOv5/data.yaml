@@ -1,0 +1,5 @@
+train: /content/gdrive/MyDrive/Final_Project/Phase_B/YOLOv5/train/images
+val: /content/gdrive/MyDrive/Final_Project/Phase_B/YOLOv5/valid/images
+
+nc: 1
+names: ['dolphin-whale']
