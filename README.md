@@ -5,12 +5,19 @@ User Documentation
 General Description
 The purpose of our model is to accurately identify a dolphin or whale individual in a given image. 
 Our model is implemented in Python (version 3.8.16) programming language, under the Pytorch framework (version 1.13.0+cu116) and GoogleColab is used as the platform to run our code.
-Steps to run HappyWhale desktop application
+
+# Steps to run HappyWhale desktop application
+
 Prequisitions:
+
 Open Spyder (Python 3.9) 5.1.5 IDE
+
 Inside Spider's terminal run the following line:
+
 pip install -r yolov5/requirements.txt
+
 Open HappyWhaleApp.py in Spyder (Python 3.9) 5.1.5 IDE
+
 Click run button inside IDE to open the HappyWhaleApp application
 
 Click “Upload” to choose a whale or dolphin image:
