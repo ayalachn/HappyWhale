@@ -100,5 +100,7 @@ Note: After changing values inside Config(), be sure to run the class’ cell to
 
 Results
 Results of the HappyWhale model will be saved under labeled_data directory (/content/gdrive/MyDrive/Final_Project/Phase_B/FinalCode/labeled_data). 
+
 Each prediction of the HappyWhale model is saved under labeled_data in the following manner:
+
 labeled_data/predicted_whale_id/{all images that the model predicted to belong to this individual whale}.
